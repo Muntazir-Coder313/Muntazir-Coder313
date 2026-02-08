@@ -1,4 +1,4 @@
-# Muntazir-Coder313
+# Hello, I'm Muntazir-Coder313!👋
 
 <p align="center">
   <img src="https://th.bing.com/th/id/R.03a4a5f034bf0bafa661fd8a8aabedc8?rik=O2cT6JPnp1MfGg&pid=ImgRaw&r=0" alt="Banner" />
@@ -9,7 +9,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## # 💫About Me :
 - 🔭 **Currently working on:** **Hotal mangment system**  
 - 🌱 **Learning:** Advanced ** tool** and **technique**  
 - 💬 **Ask me about:** MERN Stack, Web Development and js 
@@ -48,9 +48,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rukhsana-batool&layout=compact&theme=tokyonight" alt="Top Languages" height="150"/>
 </p>
 
+
 ---
 
-## 🌐 Connect with Me
+## 🌐Socials
 <p align="center">
   <a href="mailto:kahannabi123@G.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/Muntazir-Coder313/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
